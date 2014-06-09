@@ -29,5 +29,3 @@ script: |-
   sudo mv sbt-launch.jar /usr/share/sbt-launch.jar
   sudo ln -s /usr/share/sbt /usr/bin/sbt
   sudo ln -s /usr/share/sbt-launch.jar /usr/bin/sbt-launch.jar
-  
-  sudo apt-get install maven
